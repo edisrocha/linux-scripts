@@ -24,7 +24,7 @@ Coleção de scripts Shell para automação e administração de sistemas Linux.
 - `disk-cleanup.sh` - Limpeza de espaço em disco
 - `network-check.sh` - Diagnóstico de rede
 
-## omo Usar
+## Como Usar
 
 ```bash
 # Dar permissão de execução
